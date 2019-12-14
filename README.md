@@ -9,4 +9,4 @@ Detail problem description and answer please see hw1/GA_Homework1.pdf
 
 ## HW2
 - Model building for ecGA
-Due to security issue, I did not put the problem description in this repoㄖ
+Due to security issue, I did not put the problem description in this repo

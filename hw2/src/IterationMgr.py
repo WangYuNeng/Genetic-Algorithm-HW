@@ -21,7 +21,6 @@ class IterationMgr:
                     new_group.calc_description_length()
                     self.name_to_group[name] = new_group
                 cur_group = self.name_to_group[name]
-                print(name, cur_group.D_Diff)
                 if cur_group.D_Diff < best_diff:
                     best_diff = cur_group.D_Diff
                     best_group = cur_group
