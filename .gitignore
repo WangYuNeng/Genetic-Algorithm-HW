@@ -1,3 +1,5 @@
 *.vscode
 *output
-*population
+*__pycache__
+hw2/population/popu*
+hw2/mpm/mpm*
